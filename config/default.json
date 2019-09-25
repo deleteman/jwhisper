@@ -1,0 +1,12 @@
+{
+    "app": {
+        "logging": {
+            "outputfile": "./logs.log"
+        }
+    },
+    "wsp": {
+        "type": "jsonwsp/description",
+        "version": "1.0",
+        "message_endpoint":"/messages"
+    }
+}
