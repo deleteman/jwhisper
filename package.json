@@ -6,11 +6,28 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Fernando Doglio",
   "license": "ISC",
   "dependencies": {
     "config": "^3.2.2",
     "request": "^2.88.0",
     "winston": "^3.2.1"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deleteman/jwhisper.git"
+  },
+  "keywords": [
+    "rpc",
+    "json-wsp",
+    "json"
+  ],
+  "bugs": {
+    "url": "https://github.com/deleteman/jwhisper/issues"
+  },
+  "homepage": "https://github.com/deleteman/jwhisper#readme"
 }
