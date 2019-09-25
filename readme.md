@@ -1,6 +1,6 @@
 
 
-# jWhiper
+# jWhisper
 
 Welcome to jWhiper's readme page. What's jWhisper? It is an [JSON-WSP](https://en.wikipedia.org/wiki/JSON-WSP) compatible library. In other words, this is an RPC (Remote Procedure Call) library that allows you to interact with remote code just as it if was local (almost).
 
