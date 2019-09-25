@@ -1,6 +1,6 @@
 {
   "name": "jwhisper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RPC library compatible with JSON-WSP",
   "main": "index.js",
   "scripts": {
