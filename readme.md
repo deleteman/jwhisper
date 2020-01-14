@@ -102,7 +102,7 @@ let myClient = new Client({
 })
 
 myClient.on('ready', _ => {
-    console.log("Connection stablished, schema received");
+    console.log("Connection established, schema received");
 
     (async () => {
         console.log("Remotely adding numbers...")
